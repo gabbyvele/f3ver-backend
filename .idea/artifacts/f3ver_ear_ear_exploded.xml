@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="f3ver-ear:ear exploded">
+    <output-path>$PROJECT_DIR$/f3ver-ear/target/f3ver-ear</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="fvr-core-app/javaeeApplication/JavaEE" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/fvr-core-app/target/f3ver-ear/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/fvr-core-app/src/main/application" />
+      <element id="archive" name="f3ver-web.war">
+        <element id="artifact" artifact-name="f3ver-web:war exploded" />
+      </element>
+      <element id="archive" name="f3ver-ejb.jar">
+        <element id="artifact" artifact-name="f3ver-ejb:ejb exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>

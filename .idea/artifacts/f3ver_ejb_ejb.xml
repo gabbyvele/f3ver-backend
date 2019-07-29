@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="f3ver-ejb:ejb">
+    <output-path>$PROJECT_DIR$/f3ver-ejb/target</output-path>
+    <root id="archive" name="f3ver-ejb.jar">
+      <element id="artifact" artifact-name="f3ver-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

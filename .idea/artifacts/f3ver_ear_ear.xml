@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="f3ver-ear:ear">
+    <output-path>$PROJECT_DIR$/f3ver-ear/target</output-path>
+    <root id="archive" name="f3ver-ear.ear">
+      <element id="artifact" artifact-name="f3ver-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

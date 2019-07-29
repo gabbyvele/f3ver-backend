@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="f3ver-web:war exploded">
+    <output-path>$PROJECT_DIR$/f3ver-web/target/f3ver-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="fvr-presentation" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/fvr-presentation/target/f3ver-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="fvr-presentation/web/Web" />
+    </root>
+  </artifact>
+</component>

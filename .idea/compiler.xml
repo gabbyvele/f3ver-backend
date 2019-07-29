@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="f3ver-ear" />
+        <module name="f3ver-ejb" />
+        <module name="f3ver-web" />
+        <module name="fvr-persistence" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="f3ver" target="1.7" />
+      <module name="f3ver-ear" target="1.7" />
+      <module name="f3ver-ejb" target="1.7" />
+      <module name="f3ver-web" target="1.7" />
+      <module name="fvr-persistence" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="f3ver-ejb:ejb exploded">
+    <output-path>$PROJECT_DIR$/f3ver-ejb/target/f3ver-ejb</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="fvr-business/ejb/EJB" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/fvr-business/target/f3ver-ejb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="fvr-business" />
+    </root>
+  </artifact>
+</component>

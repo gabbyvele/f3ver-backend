@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/f3ver.iml" filepath="$PROJECT_DIR$/f3ver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fvr-business/fvr-business.iml" filepath="$PROJECT_DIR$/fvr-business/fvr-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fvr-core-app/fvr-core-app.iml" filepath="$PROJECT_DIR$/fvr-core-app/fvr-core-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fvr-persistence/fvr-persistence.iml" filepath="$PROJECT_DIR$/fvr-persistence/fvr-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fvr-presentation/fvr-presentation.iml" filepath="$PROJECT_DIR$/fvr-presentation/fvr-presentation.iml" />
+    </modules>
+  </component>
+</project>

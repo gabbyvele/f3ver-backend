@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="fvr-persistence:ejb">
+    <output-path>$PROJECT_DIR$/fvr-persistence/target</output-path>
+    <root id="archive" name="fvr-persistence-1.0.jar">
+      <element id="artifact" artifact-name="fvr-persistence:ejb exploded" />
+    </root>
+  </artifact>
+</component>
